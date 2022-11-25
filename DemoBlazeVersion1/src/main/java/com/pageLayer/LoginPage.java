@@ -27,7 +27,7 @@ public class LoginPage extends TestBase {
 	
 	public void enterEmailID(String email)
 	{
-		email_txt.sendKeys(email);
+	//	email_txt.sendKeys(email);
 	}
 	
 	public void enterPassword(String password)
